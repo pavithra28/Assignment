@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 
 import com.javatechie.spring.mockito.api.dao.UserRepository;
 import com.javatechie.spring.mockito.api.model.User;
-
+import java.util.ArrayList;
 @Service
 public class UserService {
 
