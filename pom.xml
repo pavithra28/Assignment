@@ -98,7 +98,7 @@
 					**/User.java,
 					**/UserService.java
 
-				</sonar.exclusions>
+			</sonar.exclusions>
 			</properties>
 			<build>
 				<plugins>
